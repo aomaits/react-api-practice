@@ -1,0 +1,22 @@
+.App {
+  display: flex;
+  align-items: center;
+}
+
+.photo-block {
+  display: flex;
+  flex-direction: column;
+  background-color: aqua;
+  align-items: center;
+}
+
+p {
+  border: 1px solid black;
+  width: 200px;
+  text-align: center;
+}
+
+button {
+  height: 30px;
+  width: 30px;
+}
